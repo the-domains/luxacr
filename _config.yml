@@ -1,14 +1,22 @@
-layout_spectrum: 0.2772058791015297
 typography_spectrum: 0.7984133444260806
+content_rating:
+  adult: false
 color:
   brandStrength: 0.24409500579349697
   lightness: 0.24977462482638657
   saturation: 0.44042890379205346
   rhythmicContrast: 0.7408655046019703
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+layout_spectrum: 0.2772058791015297
+author:
+  name: Gary Kohn
+  email: garydouglaskohn@gmail.com
 name: luxacr
+title: >-
+  Explore your 5 star vacation at a 2 star price as we take you to the worlds
+  greatest destinations
